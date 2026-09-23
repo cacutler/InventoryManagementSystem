@@ -1,0 +1,16 @@
+Objectives:
+- The system should track the inventory of different items with names, prices, and quantities
+- The system should allow users to interact with the inventory
+
+Functional Requirements:
+
+- Ability to add new products with name, price, and stock quantity
+- Update stock when products are sold or restock
+- View all products and their stock levels
+- Remove products from inventory
+
+Non-functional Requirements:
+
+- Users should be able to provide string input and have graceful error handling
+- Users should have an intuitive text menu to work with
+- Users should be able to create, edit, and delete stock with no more than three selections of choices
